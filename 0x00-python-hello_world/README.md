@@ -13,6 +13,8 @@ The files included in this repository includes
 #### `1-run_inline`
   - This shell script runs a `Python` code
 #### `2-print.py`
-  - This python script prints a string
+  - This `python script` prints a string
 #### `3-print_number.py`
-  - This python script prints an integer value followed by a string
+  - This `python script` prints an integer value followed by a string
+#### `4-print_float.py`
+  - This `python script` prints a `float` number to a precision of 2 digits
