@@ -18,3 +18,5 @@ The files included in this repository includes
   - This `python script` prints an integer value followed by a string
 #### `4-print_float.py`
   - This `python script` prints a `float` number to a precision of 2 digits
+#### `5-print_string.py`
+  - This `python script` prints a string stored in a variable, 3 times
