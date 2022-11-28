@@ -9,3 +9,10 @@ The files included in this repository includes
 #### `README.md`
   - This file is contains the necessary information regarding to this repository and its contents
 #### `0-run`
+  - This shell script runs a `Python` script
+#### `1-run_inline`
+  - This shell script runs a `Python` code
+#### `2-print.py`
+  - This python script prints a string
+#### `3-print_number.py`
+  - This python script prints an integer value followed by a string
