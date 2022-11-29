@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-for value in range(10):
-    for value1 in range(10):
-        if value == 9 and value1 == 9:
-            print("{:d}{:d}".format(value, value1), end="\n")
-        else:
-            print("{:d}{:d}, ".format(value, value1), end="")
+for value in range(100):
+    if value == 99:
+        print("{:02d}".format(value), end="\n")
+    else:
+        print("{:02d},".format(value), end=" ")
