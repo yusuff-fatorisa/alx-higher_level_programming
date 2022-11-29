@@ -24,3 +24,5 @@ The files included in this repository includes
   - This `python script` prints `Welcome to Holberton School!`
 #### `7-edges.py`
   - This `python script` exeutes `copy-cut-paste` tasks
+#### `8-concat_edges.py`
+  - This `python script` prints `objected-oriented programming with python`, followed by a new line
