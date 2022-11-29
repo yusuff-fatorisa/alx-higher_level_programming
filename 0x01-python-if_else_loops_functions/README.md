@@ -20,3 +20,5 @@ The files included in this repository includes
   - This program prints all numbers from `0` to `98` in decimal and in hexadecimal
 #### `5-print_comb2.py`
   - This program prints numbers from `0` to `99`
+#### `6-print_comb3.py`
+  - THis program prints all possible different combinations of two digits
