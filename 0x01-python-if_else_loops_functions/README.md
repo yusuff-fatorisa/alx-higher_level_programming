@@ -10,3 +10,5 @@ The files included in this repository includes
   - This file contains all the necessary information regarding to this repository and its contents
 #### `0-positive_or_negative.py`
   - This program assigns a random signed number to the variable `number` every time it is executed
+#### `1-last_digit.py`
+  - This program assigns a random signed number to the variable `number` every time it is executed 
