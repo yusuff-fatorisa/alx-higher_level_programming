@@ -28,3 +28,5 @@ The files included in this repository includes
   - This `python script` prints `objected-oriented programming with python`, followed by a new line
 #### `9-easter_egg.py`
   - This `python script` prints `"The Zen of Python"`, by TimPeters, followed by a new line
+#### `100-write.py`
+  - This `python script` prints exactly `and thst piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line
