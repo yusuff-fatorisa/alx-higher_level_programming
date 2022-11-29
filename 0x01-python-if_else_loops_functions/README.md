@@ -22,3 +22,5 @@ The files included in this repository includes
   - This program prints numbers from `0` to `99`
 #### `6-print_comb3.py`
   - THis program prints all possible different combinations of two digits
+#### `7-islower.py`
+  - This is a function that checks for lowercase character
