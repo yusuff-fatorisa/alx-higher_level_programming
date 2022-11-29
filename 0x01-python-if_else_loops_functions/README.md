@@ -12,3 +12,5 @@ The files included in this repository includes
   - This program assigns a random signed number to the variable `number` every time it is executed
 #### `1-last_digit.py`
   - This program assigns a random signed number to the variable `number` every time it is executed 
+#### `2-print_alphabet.py`
+  - This program prints the ASCII alphabet, in lowercase, not followed by a new line
