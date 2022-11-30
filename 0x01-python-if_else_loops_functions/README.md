@@ -26,3 +26,5 @@ The files included in this repository includes
   - This is a function that checks for lowercase character
 #### `8-uppercase.py`
   - This is a fuction that prints a string in uppercase, followed by a new line
+#### `9-print_last_digit.py`
+  - This function prints the last digit of a number
