@@ -36,3 +36,5 @@ The files included in this repository includes
   - This function prints the numbers from `1` to `100` separated by a space
 #### `100-print-tebahpla.py
   - This program prints the `ASCII` alphabet, in reverse order, alternating lowercase and uppercase, not followed by a new line
+#### `101-remove_char_at.py`
+  - This function creates a copy of the string, removing the character at the position `n`
