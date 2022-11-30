@@ -30,3 +30,5 @@ The files included in this repository includes
   - This function prints the last digit of a number
 #### `10-add.py`
   - This is a function that adds two integers and returns the result
+#### `11-main.py`
+  - This function computes `a` to the power of `b`, and return the value
