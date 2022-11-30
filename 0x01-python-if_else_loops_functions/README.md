@@ -24,3 +24,5 @@ The files included in this repository includes
   - THis program prints all possible different combinations of two digits
 #### `7-islower.py`
   - This is a function that checks for lowercase character
+#### `8-uppercase.py`
+  - This is a fuction that prints a string in uppercase, followed by a new line
