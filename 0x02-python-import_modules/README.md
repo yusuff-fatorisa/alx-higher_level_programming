@@ -14,8 +14,13 @@ The files contained in this repository includes
   - This program imports the function `def add(a, b):` from the file `add_0.py` and prints the result of the addition `1 + 2 = 3`
 
 `1-calculation.py`
-  - This program imports functions fro the file `calculator_1.py`, does some Maths, and prints the result.
+  - This program imports functions from the file `calculator_1.py`, does some Maths, and prints the result.
+
 `2-args.py`
   - This program prints the number of and the list of its arguments
+
+`4-hidden_discovery.py`
+  - This program prints all the names defined by the compiled module `hidden_4.pyc`
+
 `5-variable_load.py`
   - This program imports a variable `a` from the file `variable_load_5.py` and prints its value
