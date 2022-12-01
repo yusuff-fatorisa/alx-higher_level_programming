@@ -9,4 +9,7 @@ The files contained in this repository includes
 
 `README.md`
   - This file contains all the necessary information regarding to this repository and its contents
-
+`0-add.py`
+  - This program imports the function `def add(a, b):` from the file `add_0.py` and prints the result of the addition `1 + 2 = 3`
+`1-calculation.py`
+  - This program imports functions fro the file `calculator_1.py`, does some Maths, and prints the result.
