@@ -19,6 +19,9 @@ The files contained in this repository includes
 `2-args.py`
   - This program prints the number of and the list of its arguments
 
+`3-infinite_add.py`
+  - This program prints the result of the addition of all arguments
+
 `4-hidden_discovery.py`
   - This program prints all the names defined by the compiled module `hidden_4.pyc`
 
