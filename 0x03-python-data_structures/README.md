@@ -40,3 +40,6 @@ The files contained in this repository includes
 
 #### `9-max_integer.py`
   - This function finds the biggest integer of a list.
+
+#### `10-divisible_by_2.py`
+  - This function finds all multiples of 2 in a list.
