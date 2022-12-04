@@ -37,3 +37,6 @@ The files contained in this repository includes
 
 #### `8-multiple_returns.py`
   - This function returns a tuple with the length of a string and its first character.
+
+#### `9-max_integer.py`
+  - This function finds the biggest integer of a list.
