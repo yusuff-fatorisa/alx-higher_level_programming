@@ -31,3 +31,6 @@ The files contained in this repository includes
 
 #### `6-print_matrix_integer.py`
   - This function prints a matrix of integers.
+
+#### `7-add_tuple.py`
+  - This function adds 2 tuples.
