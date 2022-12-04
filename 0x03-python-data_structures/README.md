@@ -34,3 +34,6 @@ The files contained in this repository includes
 
 #### `7-add_tuple.py`
   - This function adds 2 tuples.
+
+#### `8-multiple_returns.py`
+  - This function returns a tuple with the length of a string and its first character.
