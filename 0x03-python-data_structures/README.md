@@ -43,3 +43,6 @@ The files contained in this repository includes
 
 #### `10-divisible_by_2.py`
   - This function finds all multiples of 2 in a list.
+
+#### `11-delete_at.py`
+  - This function deletes the item at a specific position in a list.
