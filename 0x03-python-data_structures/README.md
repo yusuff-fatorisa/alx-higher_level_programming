@@ -49,3 +49,9 @@ The files contained in this repository includes
 
 #### `12-switch.py`
   - This program switches the value of `a` and `b`
+
+#### `13-is_palindrome.c`
+  - This function checks if a singly linked list is a palindrome.
+
+#### `lists.h`
+  - This is a header file
