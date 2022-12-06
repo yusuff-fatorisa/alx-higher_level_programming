@@ -27,3 +27,6 @@ The files contained in this repository includes
 
 `5-variable_load.py`
   - This program imports a variable `a` from the file `variable_load_5.py` and prints its value
+
+`100-my_calculator.py`
+  - This program imports all functions from the file `calculator_1.py` and handles basic operations
