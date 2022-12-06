@@ -2,10 +2,10 @@
 if __name__ == "__main__":
     from sys import argv
 
-    op = ["+", "-", "*", "/"]
+    op = ["+", "-", '*', "/"]
 
     if len(argv) < 3:
-        print("./100-my_calculator.py <a> <operator> <b>")
+        print("Usage: ./100-my_calculator.py <a> <operator> <b>")
         exit(1)
     elif argv[2] not in op:
         print("Unknown operator. Available opertors: +, -, * and /")
