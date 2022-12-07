@@ -36,3 +36,6 @@ The files contained in this repository includes
 
 `103-fast_alphabet.py`
   - This program prints the alphabets in uppercase, followed by a new line.
+
+`102-magic_calculation.py`
+  - This Python function `def magic_calculation(a, b):` does exactly the execution of some python code
