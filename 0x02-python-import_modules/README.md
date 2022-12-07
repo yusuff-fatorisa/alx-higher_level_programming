@@ -30,3 +30,6 @@ The files contained in this repository includes
 
 `100-my_calculator.py`
   - This program imports all functions from the file `calculator_1.py` and handles basic operations
+
+`101-easy_print.py`
+  - This program prints `#pythoniscool` followed by a new line in the standard output.
