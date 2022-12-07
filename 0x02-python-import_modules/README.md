@@ -33,3 +33,6 @@ The files contained in this repository includes
 
 `101-easy_print.py`
   - This program prints `#pythoniscool` followed by a new line in the standard output.
+
+`103-fast_alphabet.py`
+  - This program prints the alphabets in uppercase, followed by a new line.
