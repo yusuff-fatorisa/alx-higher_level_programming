@@ -26,3 +26,6 @@ The files contained in this repository includes
 
 #### `4-only_diff_elements.py`
   - This file contains a function that returns a set of all elements present in only one set.
+
+#### `5-number_keys.py`
+  - This file contains a function that eturns the number of jeys in a dictionary.
