@@ -1,0 +1,16 @@
+## `0x04-python-more_data_structures`
+
+![Python Data Strucrures](https://camo.githubusercontent.com/9c906e213e929f5d30d1389399df196d36145c6438c30bb7baaf37134c5f233b/68747470733a2f2f63646e2e636f72706f7261746566696e616e6365696e737469747574652e636f6d2f6173736574732f707974686f6e2d646174612d737472756374757265732e706e67)
+
+![Python Dictionary & Sets](https://miro.medium.com/max/800/1*uaHUYRo6iUoJlJBwib1ibA.png)
+
+
+This repository contains all tasks, functions and projects on Data Structures: Lists and Tuples as related to Higher Level Programming using [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+The files contained in this repository includes
+
+#### `README.md`
+  - This file contains all the necessary information regarding this repository and its contents
+
+#### `0-square_matrix_simple.py`
+  - This file contains a function that computes the square value of all integers of a matrix
