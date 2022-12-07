@@ -17,3 +17,6 @@ The files contained in this repository includes
 
 #### `1-search_replace.py`
   - This file contains a function that replaces all occurences of an element by another in a new list.
+
+#### `2-uniq_add.py`
+  - This file contains a function that adds all the unique integers in a list (only once for each integer)
