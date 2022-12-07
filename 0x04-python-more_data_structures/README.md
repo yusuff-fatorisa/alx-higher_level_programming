@@ -35,3 +35,6 @@ The files contained in this repository includes
 
 #### `7-update_dictionary.py`
   - This file contains a function that replaces the `key/value` in a `dictionary`.
+
+#### `8-simple_delete`
+  - This file contains a function that deletes a key in a `dictionary`.
