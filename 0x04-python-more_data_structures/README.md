@@ -20,3 +20,6 @@ The files contained in this repository includes
 
 #### `2-uniq_add.py`
   - This file contains a function that adds all the unique integers in a list (only once for each integer)
+
+#### `3-common_elements.py`
+  - This file contains a function that returns a set of common elements in two sets.
