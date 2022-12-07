@@ -29,3 +29,6 @@ The files contained in this repository includes
 
 #### `5-number_keys.py`
   - This file contains a function that eturns the number of jeys in a dictionary.
+
+#### `6-print_sorted_dictionary.py`
+  - This file contains a function that prints a dictionary by ordered keys.
