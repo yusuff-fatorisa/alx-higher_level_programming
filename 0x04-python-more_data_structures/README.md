@@ -32,3 +32,6 @@ The files contained in this repository includes
 
 #### `6-print_sorted_dictionary.py`
   - This file contains a function that prints a dictionary by ordered keys.
+
+#### `7-update_dictionary.py`
+  - This file contains a function that replaces the `key/value` in a `dictionary`.
