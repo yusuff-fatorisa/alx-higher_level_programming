@@ -14,3 +14,6 @@ The files contained in this repository includes
 
 #### `0-square_matrix_simple.py`
   - This file contains a function that computes the square value of all integers of a matrix
+
+#### `1-search_replace.py`
+  - This file contains a function that replaces all occurences of an element by another in a new list.
