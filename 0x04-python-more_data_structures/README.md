@@ -48,6 +48,9 @@ The files contained in this repository includes
 #### `11-multiply_list_map.py`
   - This file contains a function that returns a list with all values multiplied by a number without using any loops.
 
+#### `12-roman_to_int.py`
+  - This file contains a function `roman_to_int(roman_string):` that converts a `Roman numeral` to an integer
+
 #### `100-weight_average`
   - This file contains a function that returns the `weighted average` of all integers tuple `(<score>, <weight>)`.
 
