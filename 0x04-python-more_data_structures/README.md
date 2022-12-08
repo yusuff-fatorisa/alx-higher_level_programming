@@ -53,3 +53,6 @@ The files contained in this repository includes
 
 #### `101-square_matrix_map.py`
   - This file contains a function that computes the square value of all integers of a matrix using `map`.
+
+#### `102-complex_delete.py`
+  - This file contains a function that deletes keys with a specific value in a dictionary.
