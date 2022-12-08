@@ -4,4 +4,10 @@ def roman_to_int(roman_string):
     rd = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
     match_list = list(roman_string.upper())
     match_values = list(map(lambda x: rd[x], match_list))
+    i, j = 0, 1
+    while j < len(match_values):
+        if match_values[i] < match_values[j]:
+            match_values[i] = match_values[i] * -1
+        i += 1
+        j += 1
     return reduce(lambda x, y: x + y if x > y else y - x, match_values)
