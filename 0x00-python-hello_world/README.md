@@ -32,3 +32,6 @@ The files included in this repository includes
   - This `python script` prints exactly `and thst piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line
 #### `101-script`
   - This script compiles a `Python script` file
+
+##### `102-magic_calculation.py`
+  - This file contains a python function `def magic_calculation(a, b):` that does exactly the same as analyzing its [Python Bytecode](https://docs.python.org/3.4/library/dis.html).
