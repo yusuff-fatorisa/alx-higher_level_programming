@@ -55,4 +55,4 @@ The files included in this repository includes
   - This function creates a copy of the string, removing the character at the position `n`.
 
 #### `102-magic_calculation.py`
-  - This file contains a python function def magic_calculation(a, b): that does exactly the same as analyzing its [Python Bytecode](https://docs.python.org/3.4/library/dis.html).
+  - This file contains a python function def magic_calculation(a, b, c): that does exactly the same as analyzing its [Python Bytecode](https://docs.python.org/3.4/library/dis.html).
