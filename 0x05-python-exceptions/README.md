@@ -26,3 +26,6 @@ The files contained in this repository includes
 
 #### `4-list_division.py`
   - This file contains a function that divides element by element 2 lists.
+
+#### `5-raise_exception.py`
+  - This file contains a function that raises a type exception.
