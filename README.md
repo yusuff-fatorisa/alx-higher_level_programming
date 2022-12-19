@@ -14,3 +14,5 @@ This repository contains tasks and projects related to `Higher Level Programming
 + #### [0x03-python-data_structures](https://github.com/yusuff-fatorisa/alx-higher_level_programming/tree/master/0x03-python-data_structures)
 
 + #### [0x04-python-more_data_structures](https://github.com/yusuff-fatorisa/alx-higher_level_programming/tree/master/0x04-python-more_data_structures)
+
++ #### [0x05_python-exceptions](https://github.com/yusuff-fatorisa/alx-higher_level_programming/tree/master/0x05-python-exceptions)

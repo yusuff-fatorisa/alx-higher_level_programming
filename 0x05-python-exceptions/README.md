@@ -14,3 +14,6 @@ The files contained in this repository includes
 
 #### `0-safe_print_list.py`
   - This file contains a function that prints `x` elements of a list.
+
+#### `1-safe_print_integer.py`
+  - This file contains a function that prints an integer with `"{:d}".format()`.
