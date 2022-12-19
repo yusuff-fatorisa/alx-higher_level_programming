@@ -32,3 +32,6 @@ The files contained in this repository includes
 
 #### `6-raise_exception_msg.py`
   - This file contains a function that raises a `name exception` with a  message.
+
+#### `100-sfae_print_integer_err.py`
+  - This file contains a function that prints an integer.
