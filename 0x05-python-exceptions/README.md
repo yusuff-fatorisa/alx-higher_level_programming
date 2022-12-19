@@ -20,3 +20,6 @@ The files contained in this repository includes
 
 #### `2-safe_print_list_integers.py`
   - This file contains a function that prints the first `x` elements of a list and only integers.
+
+#### `3-safe_print_division.py`
+  - This file contains a function that divides 2 integers and prints the results.
