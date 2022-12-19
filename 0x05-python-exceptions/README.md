@@ -23,3 +23,6 @@ The files contained in this repository includes
 
 #### `3-safe_print_division.py`
   - This file contains a function that divides 2 integers and prints the results.
+
+#### `4-list_division.py`
+  - This file contains a function that divides element by element 2 lists.
