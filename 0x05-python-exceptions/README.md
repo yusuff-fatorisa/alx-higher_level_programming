@@ -17,3 +17,6 @@ The files contained in this repository includes
 
 #### `1-safe_print_integer.py`
   - This file contains a function that prints an integer with `"{:d}".format()`.
+
+#### `2-safe_print_list_integers.py`
+  - This file contains a function that prints the first `x` elements of a list and only integers.
