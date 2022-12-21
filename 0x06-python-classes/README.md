@@ -23,3 +23,6 @@ The files included in this repository are as follows:
 
 #### `3-square.py`
   - This file contains a class `Square` that defines a square by:(based on `2-square.py`).
+
+#### `4-square.py`
+  - This file contains a class `Square` that defines a square by(based on `3-square.py`).
