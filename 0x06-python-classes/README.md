@@ -14,3 +14,6 @@ The files included in this repository are as follows:
 
 #### `0-square.py`
   - This file contains some code that defines a `Square` class which defines a square object.
+
+#### `1-square.py`
+  - This file defines a class `Square` that defines a square by:(based on `0-square.py`).
