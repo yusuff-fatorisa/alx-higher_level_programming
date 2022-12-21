@@ -38,3 +38,6 @@ The files included in this repository are as follows:
 
 #### `101-square.py`
   - This file contains a class `Square` that defines a square by:(based on `6-square.py`).
+
+#### `102-square.py`
+  - This file contains a class `Square` that defines a square by:(based on `4-square.py`).
