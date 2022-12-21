@@ -32,3 +32,6 @@ The files included in this repository are as follows:
 
 #### `6-square.py`
   - This file contains a class `Square` that defines a square by(based on `5-square.py`).
+
+#### `100-singly_linked_list.py`
+  - This file contains a class `Node` that defines a node of a `singly linked list`.
