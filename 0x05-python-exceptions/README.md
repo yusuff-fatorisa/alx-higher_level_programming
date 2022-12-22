@@ -38,3 +38,6 @@ The files contained in this repository includes
 
 #### `101-safe_function.py`
   - This file contains a function that executes another function safely.
+
+#### `102-magic_calculation.py`
+  - This file contains a function `def magic_calculation(a, b):` that does excatly the same thing as a set of given Python `bytecode`.
