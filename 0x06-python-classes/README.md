@@ -41,3 +41,6 @@ The files included in this repository are as follows:
 
 #### `102-square.py`
   - This file contains a class `Square` that defines a square by:(based on `4-square.py`).
+
+#### `103-magic_class.py`
+  - This file contains does exactly the same as the set of given `Bytecode` given for this task.
