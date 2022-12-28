@@ -6,7 +6,7 @@ import math
 class MagicClass():
     """Initialize and define methods area and circumference"""
 
-    def __init__(self, radius):
+    def __init__(self, radius=0):
         """Initialize MagicClass"""
         self.__radius = 0
         if type(radius) != int and type(radius) != float:
