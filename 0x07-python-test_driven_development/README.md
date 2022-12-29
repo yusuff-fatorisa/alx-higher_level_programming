@@ -15,3 +15,15 @@ The files included in this repository includes
 
 #### `tests`
   - This is a folder which contains all test files of the extension `.txt`.
+
+#### `0-add_integer.py`
+  - This file contains a function that adds 2 integers.
+
+#### `tests/0-add_integer.txt`
+  - This file contains all the test development cases for the function `add_integer(a, b=98):`
+
+#### `2-matrix_divided.py`
+  - This file contains a function that divides all the elements of a matrix.
+
+#### `tests/2-matrix_divided.txt`
+  - This file contains all the test development cases for the function `matrix_divided(matrix, div):`
