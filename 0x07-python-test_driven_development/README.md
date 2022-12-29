@@ -32,3 +32,9 @@ The files included in this repository includes
 
 #### `tests/3-say_my_name.txt`
   - This file contains all the test development cases for the function `say_my_name(first_name. last_name=""):`
+
+#### `4-print_square.py`
+  - This file contains a function that prints a square with the character `#`.
+
+#### `tests/4-print_square.txt`
+  - This file contains all the test development cases for the function `print_square(size):`.
