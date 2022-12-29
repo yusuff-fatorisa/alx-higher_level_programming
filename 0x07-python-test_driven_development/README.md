@@ -27,3 +27,8 @@ The files included in this repository includes
 
 #### `tests/2-matrix_divided.txt`
   - This file contains all the test development cases for the function `matrix_divided(matrix, div):`
+#### `3-say_my_name.py`
+  - This file contains a function prints `My name is <first_name> <last_name>`
+
+#### `tests/3-say_my_name.txt`
+  - This file contains all the test development cases for the function `say_my_name(first_name. last_name=""):`
