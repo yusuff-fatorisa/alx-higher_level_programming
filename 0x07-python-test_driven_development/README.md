@@ -38,3 +38,9 @@ The files included in this repository includes
 
 #### `tests/4-print_square.txt`
   - This file contains all the test development cases for the function `print_square(size):`.
+
+#### `5-text_indentation.py`
+  - This file contains a function that prints a text with 2 new lines after each of these characters: `.`, `?`, and `:`.
+
+#### `tests/5-text_indentation.txt`
+  - This file contains all test development cases for the function `text_indentation(text):`.
