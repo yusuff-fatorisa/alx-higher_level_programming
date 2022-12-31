@@ -44,3 +44,6 @@ The files included in this repository includes
 
 #### `tests/5-text_indentation.txt`
   - This file contains all test development cases for the function `text_indentation(text):`.
+
+#### `tests/6-max_integer_test.py`
+  - This file contains a `unittest` class with sets of test runner methods for testing all development cases for the function `max_integer(list=[]):`.
