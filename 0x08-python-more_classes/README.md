@@ -10,3 +10,9 @@ This repository contains tasks and projects on Classes and Objects as related to
 
 #### `README.md`
   - This file contains all the necessary information as regards to this repository and its contents.
+
+#### `0-rectangle.py`
+  - This file is a module that contains an empty `class` definition for a `Rectangle`
+
+#### `1-rectangle.py`
+  - This file is a module that contains a `class` definition for a `Rectangle` based on `0-rectangle.py`.
