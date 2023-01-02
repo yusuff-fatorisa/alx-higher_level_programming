@@ -1,17 +1,15 @@
 #!/usr/bin/python3
+"""
+Module 0-Rectangle
+Contains a class Rectangle
+Makes an empty Rectangle class
+"""
+
+
 class Rectangle(object):
     """
     This class creates an instance of a Rectangle class
-    This class creates an instance of a Rectangle class
-    This class creates an instance of a Rectangle class
-    This class creates an instance of a Rectangle class
-    This class creates an instance of a Rectangle class
+    It creates an empty Rectangle object
     """
-    
-    def __init__(self):
-        """
-        This function initializes the Rectangle object
-        This function initializes the Rectangle object
-        This function initializes the Rectangle object
-        """
-        pass
+
+    pass
