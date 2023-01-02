@@ -47,3 +47,9 @@ The files included in this repository includes
 
 #### `tests/6-max_integer_test.py`
   - This file contains a `unittest` class with sets of test runner methods for testing all development cases for the function `max_integer(list=[]):`.
+
+#### `100-matrix_mul.py`
+  - This file contains a function that multiplies 2 matrices.
+
+#### `tests/100-matrix_mul.txt`
+  - This file contains all the test development cases for the function `matrix_mul(m_a, m_b):`.
