@@ -10,4 +10,7 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
   - This file contains all the necessary information as regards to this repository and its contents.
 
 #### `0-answer.txt`
-  - This file contains the name of a python in-built function use to print the type of an object
+  - This file contains the name of a python in-built function use to print the type of an object.
+
+#### `1-answer.txt`
+  - This file contains the name of the in-built `Python function` used to get the variable identifier `i.e` the memory address.
