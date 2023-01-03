@@ -36,6 +36,13 @@ class Rectangle(object):
         else:
             self.__height = height
 
+    def __str__(self):
+        """ Prints the string representation of a Rectangle object """
+        if self.__height == 0 or self.__width == 0:
+            return ""
+        rep = "\n".join(["#" * self.__width for h in range(self.__height)])
+        return rep
+
     @property
     def width(self):
         """ Getter returns width """
