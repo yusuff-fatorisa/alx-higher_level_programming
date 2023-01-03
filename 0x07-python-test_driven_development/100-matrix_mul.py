@@ -35,10 +35,6 @@ def matrix_mul(m_a, m_b):
 
     mess_1_a = "m_a should contain only integers or floats"
     mess_1_b = "m_b should contain only integers or floats"
-    a_val = [isinstance(v, (int, float)) for a in m_a for v in a]
-    b_val = [isinstance(v, (int, float)) for b in m_b for v in b]
-    len_a = [len(a) == len(m_a[0]) for a in m_a]
-    len_b = [len(b) == len(m_b[0]) for b in m_b]
     if not isinstance(m_a, list):
         raise TypeError("m_a must be a list")
     elif len(m_a) == 0:
@@ -47,9 +43,9 @@ def matrix_mul(m_a, m_b):
         raise TypeError("m_a must be a list of lists")
     elif all(len(a) != 0 for a in m_a) is not True:
         raise ValueError("m_a can't be empty")
-    elif all(a_val) is not True:
+    elif all(isinstance(v, (int, float)) for a in m_a for v in a) is not True:
         raise TypeError("m_a should contain only integers or floats")
-    elif all(len_a) is not True:
+    elif all(len(a) == len(m_a[0]) for a in m_a) is not True:
         raise TypeError("each row of m_a must be of the same size")
     elif not isinstance(m_b, list):
         raise TypeError("m_b must be a list")
@@ -59,9 +55,9 @@ def matrix_mul(m_a, m_b):
         raise TypeError("m_b must be a list of lists")
     elif all(len(b) != 0 for b in m_b) is not True:
         raise ValueError("m_b can't be empty")
-    elif all(b_val) is not True:
+    elif all(isinstance(v, (int, float)) for b in m_b for v in b) is not True:
         raise TypeError("m_b should contain only integers or floats")
-    elif all(len_b) is not True:
+    elif all(len(b) == len(m_b[0]) for b in m_b) is not True:
         raise TypeError("each row of m_b must be of the same size")
     elif get_size(m_a)[-1] != get_size(m_b)[0]:
         raise ValueError("m_a and m_b can't be multiplied")

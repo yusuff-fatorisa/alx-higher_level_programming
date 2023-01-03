@@ -20,3 +20,5 @@ This repository contains tasks and projects related to `Higher Level Programming
 + #### [0x06-python-classes](https://github.com/yusuff-fatorisa/alx-higher_level_programming/tree/master/0x06-python-classes)
 
 + #### [0x07-python_test_driven_development](https://github.com/yusuff-fatorisa/alx-higher_level_programming/tree/master/0x07-python-test_driven_development)
+
++ #### [0x08-python-more_classes](https://github.com/yusuff-fatorisa/alx-higher_level_programming/tree/master/0x08-python-more_classes)
