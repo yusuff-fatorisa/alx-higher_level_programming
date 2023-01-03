@@ -53,3 +53,9 @@ The files included in this repository includes
 
 #### `tests/100-matrix_mul.txt`
   - This file contains all the test development cases for the function `matrix_mul(m_a, m_b):`.
+
+#### `101-lazy_matrix_mul.py`
+  - This file contains a function that multiplies 2 matrices by using the module `Numpy`.
+
+#### `tests/101-lazy_matrix_mul.txt`
+  - This file contains all the test development cases for the function `lazy_matrix_mul(m_a, m_b):`
