@@ -16,4 +16,7 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
   - This file contains the name of the in-built `Python function` used to get the variable identifier `i.e` the memory address.
 
 #### `2-answer.txt`
-  - This file contains the answer to the comparion of 2 python identifier.
+  - This file contains the answer to the comparion of 2 python identifiers.
+
+#### `3-answer.txt`
+  - This file contains the answer to the comparison of 2 python identifiers.
