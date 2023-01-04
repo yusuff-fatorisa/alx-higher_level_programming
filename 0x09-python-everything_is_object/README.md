@@ -56,3 +56,9 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
 
 #### `15-answer.txt`
   - This file prints the output of a `List` after it has be assigned amd modified from 2 different identifiers.
+
+#### `16-answer.txt`
+  - This file contains the output of printing an `integer` after it has been passed as a parameter to a `pure_function`.
+
+#### `17-answer.txt`
+  - This file contains the output of printing a `List` after it has been passed as a parameter and modified in a `pure function`.
