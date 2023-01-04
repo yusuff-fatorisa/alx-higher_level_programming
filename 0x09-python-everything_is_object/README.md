@@ -66,4 +66,5 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
 #### `18-answer.txt`
   - This file prints the output of a list after it's been passed as a parameter to a `pure_function`.
 
-#### ``
+#### `19-copy_list.py`
+  - This file contains a function `def copy_list(l):` that returns a `copy` of a list.
