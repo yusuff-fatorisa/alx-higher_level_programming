@@ -92,3 +92,6 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
 
 #### `27-answer.txt`
   - This file contains a `Boolean` value which is the answer to the comparison of 2 python identifiers.
+
+#### `100-magic_string.py`
+  - This file contains a function `magic_string(s=[])` that returns a string `"BestSchool"` n times the number of times of the iteration.
