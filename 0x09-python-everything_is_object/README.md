@@ -44,3 +44,9 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
 
 #### `11-answer.txt`
   - This file contains a `Boolean` value which is the answer to the comparison of 2 python identifiers.
+
+#### `12-answer.txt`
+  -  This file contains a `Boolean` value which is the answer to the comparison of 2 python identifiers.
+
+#### `13-answer.txt`
+  -  This file contains a `Boolean` value which is the answer to the comparison of 2 python identifiers.
