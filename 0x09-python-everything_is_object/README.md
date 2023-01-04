@@ -62,3 +62,8 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
 
 #### `17-answer.txt`
   - This file contains the output of printing a `List` after it has been passed as a parameter and modified in a `pure function`.
+
+#### `18-answer.txt`
+  - This file prints the output of a list after it's been passed as a parameter to a `pure_function`.
+
+#### ``
