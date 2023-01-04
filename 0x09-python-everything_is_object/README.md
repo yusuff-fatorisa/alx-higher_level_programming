@@ -68,3 +68,15 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
 
 #### `19-copy_list.py`
   - This file contains a function `def copy_list(l):` that returns a `copy` of a list.
+
+#### `20-answer.txt`
+  - This file contains a response to the check whether it gives an output of a tuple or not.
+
+#### `21-answer.txt`
+  - This file contains a response to the check whether it gives an output of a tuple or not.
+
+#### `22-answer.txt`
+  - This file contains a response to the check whether it gives an output of a tuple or not.
+
+#### `23-answer.txt`
+  - This file contains a response to the check, whether it gives an output of a tuple or not.
