@@ -95,3 +95,6 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
 
 #### `100-magic_string.py`
   - This file contains a function `magic_string(s=[])` that returns a string `"BestSchool"` n times the number of times of the iteration.
+
+#### `101-locked_class.py`
+  - This file contains a class definition with no class attribute, that prevents the user from dynamically creating a new instance attribute, except some default and specified ones.
