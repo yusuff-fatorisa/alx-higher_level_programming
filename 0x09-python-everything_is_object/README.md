@@ -80,3 +80,15 @@ This repository contains tasks and projects on `Object Oriented Programming` as 
 
 #### `23-answer.txt`
   - This file contains a response to the check, whether it gives an output of a tuple or not.
+
+#### `24-answer.txt`
+  - This file contains a `Boolean` value which is the answer to the comparison of 2 python identifiers.
+
+#### `25-answer.txt`
+  - This file contains a `Boolean` value which is the answer to the comparison of 2 python identifiers.
+
+#### `26-answer.txt`
+  - This file contains a `Boolean` value which is the answer to the comparison of 2 python identifiers.
+
+#### `27-answer.txt`
+  - This file contains a `Boolean` value which is the answer to the comparison of 2 python identifiers.
