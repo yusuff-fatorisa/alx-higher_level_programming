@@ -5,6 +5,8 @@ The name of the function is 'add_integer'
 Details about this function,(declaration and definition),
 can be found in the function documentation.
 """
+
+
 def add_integer(a, b=98):
     """
     This function adds 2 integers.
