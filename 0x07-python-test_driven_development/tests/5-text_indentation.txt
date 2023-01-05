@@ -17,6 +17,7 @@ I guess there's no command left for me to run.
 <BLANKLINE>
 Goodbye!.
 <BLANKLINE>
+Till next time
 >>> text_indentation("list: [1, 2, 3] What do you want me to print next? I guess there's no command left for me to run. Goodbye!. Till next time.")
 list:
 <BLANKLINE>
@@ -29,9 +30,9 @@ Goodbye!.
 Till next time.
 <BLANKLINE>
 >>> text_indentation("Alpha")
+Alpha
 >>> text_indentation("Alpha.") #doctest: +NORMALIZE_WHITESPACE
 Alpha.
-<BLANKLINE>
 >>> text_indentation(123456)
 Traceback (most recent call last):
 TypeError: text must be a string

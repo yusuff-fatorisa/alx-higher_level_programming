@@ -33,8 +33,15 @@ def text_indentation(text):
             except ValueError:
                 pass
         indices = sorted(char_output)
+        if len(indices) == 0:
+            indices += [len(text)]
+        if indices[-1] < len(text):
+            indices += [len(text)]
         init = 0
         for val in indices:
-            print(text[init: val + 1].strip())
-            print()
-            init = val + 1
+            if val != len(text):
+                print(text[init: val + 1].strip())
+                print()
+                init = val + 1
+            else:
+                print(text[init: val + 1].strip(), end="")
