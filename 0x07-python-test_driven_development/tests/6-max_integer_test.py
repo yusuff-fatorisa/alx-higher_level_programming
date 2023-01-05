@@ -7,13 +7,14 @@
 import unittest
 max_integer = __import__('6-max_integer').max_integer
 
+
 class TestMaxInteger(unittest.TestCase):
     """
     This module contains test functions that runs tests
     on the corresponding function with several test case
     scenarios.
     """
-    
+
     def test_max_integer(self):
         """
         This test function asserts that all these test cases
@@ -21,6 +22,8 @@ class TestMaxInteger(unittest.TestCase):
         """
         self.assertEqual(max_integer([1, 2, 3, 4, 5]), 5)
         self.assertEqual(max_integer([4, 6, 2, 10, 8]), 10)
+        self.assertEqual(max_integer([3]), 3)
+        self.assertEqual(max_integer([10, 2, 8, 4, 6]), 10)
         self.assertEqual(max_integer([]), None)
         self.assertEqual(max_integer(()), None)
         self.assertEqual(max_integer({}), None)
@@ -42,6 +45,7 @@ class TestMaxInteger(unittest.TestCase):
             max_integer(2)
         with self.assertRaises(KeyError):
             max_integer({"a": 1, "b": 2, "c": 3, "d": 4})
-    
+
+
 if __name__ == "__main__":
     unittest.main()
