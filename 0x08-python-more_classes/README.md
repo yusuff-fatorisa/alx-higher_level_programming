@@ -31,3 +31,6 @@ This repository contains tasks and projects on Classes and Objects as related to
 
 #### `6-rectangle.py`
   - This file is a module that contains a `class` definition of a `Rectangle` based on `5-rectangle.py`.
+
+#### `7-rectangle.py`
+  - This file is a module that contains a `class` definition  of a `Rectangle` based on `6-rectangle.py`.
