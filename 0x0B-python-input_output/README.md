@@ -18,3 +18,6 @@ The files contained in this repository includes
 
 #### `1-write_file.py`
   - This file contains a function that writes a string to a text file (`UTF8`) and returns the number of characters written.
+
+#### `2-append_write.py`
+  - This file contains a function that appends a string at the end of a text file (`UTF8`) and returns the number of character added.
