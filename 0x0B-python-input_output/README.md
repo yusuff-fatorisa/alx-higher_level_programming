@@ -27,3 +27,9 @@ The files contained in this repository includes
 
 #### `4-from_json_string.py`
   - This file contains a function that returns an object (Python Data Structure) represented by a JSON String.
+
+#### `5-svae_to_json.py`
+  - This file contains a function that writes an `Object` to a text file, using `JSON` representation.
+
+#### `6-load_from_json_file.py`
+  - This file contains a function that creates an `Object` from a `JSON` file.
