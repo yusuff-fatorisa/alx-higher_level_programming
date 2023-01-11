@@ -21,3 +21,6 @@ The files contained in this repository includes
 
 #### `2-append_write.py`
   - This file contains a function that appends a string at the end of a text file (`UTF8`) and returns the number of character added.
+
+#### `3-to_json_string.py`
+  - This file contains a function that returns the json representation of an object(`string`).
