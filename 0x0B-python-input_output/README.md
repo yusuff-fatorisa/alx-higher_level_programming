@@ -33,3 +33,6 @@ The files contained in this repository includes
 
 #### `6-load_from_json_file.py`
   - This file contains a function that creates an `Object` from a `JSON` file.
+
+#### `7-add_item.py`
+  - This file is a script that adds all arguments to a `Python List`, and then save them to a file.
