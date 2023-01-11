@@ -24,3 +24,6 @@ The files contained in this repository includes
 
 #### `3-to_json_string.py`
   - This file contains a function that returns the json representation of an object(`string`).
+
+#### `4-from_json_string.py`
+  - This file contains a function that returns an object (Python Data Structure) represented by a JSON String.
