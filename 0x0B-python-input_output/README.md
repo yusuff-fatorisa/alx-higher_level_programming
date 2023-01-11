@@ -36,3 +36,7 @@ The files contained in this repository includes
 
 #### `7-add_item.py`
   - This file is a script that adds all arguments to a `Python List`, and then save them to a file.
+
+
+#### `8-class_to_json.py`
+  - This file contains a function that returns the dictionary dexcription with simple dta structure (`lis, dictionary, string, integer and boolean`) for `JSON` serialization of an object.
