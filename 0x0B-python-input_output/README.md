@@ -40,3 +40,7 @@ The files contained in this repository includes
 
 #### `8-class_to_json.py`
   - This file contains a function that returns the dictionary dexcription with simple dta structure (`lis, dictionary, string, integer and boolean`) for `JSON` serialization of an object.
+
+
+#### `9-student.py`
+  - This module contains a `Class` Student.
