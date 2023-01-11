@@ -14,4 +14,4 @@ def read_file(filename=""):
     which is by default, 'an empty string'.
     """
     with open(filename, 'r', encoding="utf-8") as file:
-        print(file.read())
+        print(file.read(), end="")

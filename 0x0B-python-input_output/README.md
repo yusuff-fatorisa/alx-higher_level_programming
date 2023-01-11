@@ -15,3 +15,6 @@ The files contained in this repository includes
 
 #### `0-read_file.py`
   - This file contains a function that reads a text file (`UTF8`) and prints it to the `stdout`.
+
+#### `1-write_file.py`
+  - This file contains a function that writes a string to a text file (`UTF8`) and returns the number of characters written.
