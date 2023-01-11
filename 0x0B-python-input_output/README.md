@@ -44,3 +44,7 @@ The files contained in this repository includes
 
 #### `9-student.py`
   - This module contains a `Class` Student.
+
+
+#### `10-student.py`
+  - This file contains a`Student` Class that defines `student` based on script `9-student.py`.
