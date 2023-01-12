@@ -19,3 +19,7 @@ The files included in this repository includes:
 
 #### `1-my_list.py`
   - This file contains a class `MyList` that inherits from `list`.
+
+
+#### `2-is_same_class.py`
+  - This function returns `True` if the `Object` is excatly an instance of the specified class, otherwise `False`.
