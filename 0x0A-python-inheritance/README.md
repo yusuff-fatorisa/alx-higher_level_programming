@@ -23,3 +23,7 @@ The files included in this repository includes:
 
 #### `2-is_same_class.py`
   - This function returns `True` if the `Object` is excatly an instance of the specified class, otherwise `False`.
+
+
+#### `3-is_kind_of_class.py`
+  - This file contains a function that returns `True` if the object is an instance of, or if the object is a n instance of class that inherited from the specified class, otherwise `False`.
