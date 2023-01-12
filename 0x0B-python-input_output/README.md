@@ -52,3 +52,7 @@ The files contained in this repository includes
 
 #### `11-stydent.py`
   - This file contains a `Student` Class that defines `student` object based on script `10-student.py`.
+
+
+#### `100-append_after.py`
+  - This file contains a function that inserts a line of text to a file after each file, after each line containing a specific string.
