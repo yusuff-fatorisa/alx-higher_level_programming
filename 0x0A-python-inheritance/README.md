@@ -15,3 +15,7 @@ The files included in this repository includes:
 
 #### `0-lookup.py`
   - This file contains a function that returns the list of available attributes and methods of an object.
+
+
+#### `1-my_list.py`
+  - This file contains a class `MyList` that inherits from `list`.

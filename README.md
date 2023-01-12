@@ -26,3 +26,6 @@ This repository contains tasks and projects related to `Higher Level Programming
 + #### [0x09-python-everything_is_object](https://github.com/yusuff-fatorisa/alx-higher_level_programming/tree/master/0x09-python-everything_is_object)
 
 + #### [0x0B-python-input_output](https://github.com/yusuff-fatorisa/alx-higher_level_programming/tree/master/0x0B-python-input_output)
+
+
++ #### [0x0A-python-inheritance](https://github.com/yusuff-fatorisa/alx-higher_level_programming/tree/master/0x0A-python-inheritance)
