@@ -31,3 +31,7 @@ The files included in this repository includes:
 
 #### `4-inherits_from.py`
   - This file contains a function that returns True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False.
+
+
+#### `5-base_geometry.py`
+  - This file defines an empty class `BaseGeometry`.
