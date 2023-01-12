@@ -48,3 +48,7 @@ The files contained in this repository includes
 
 #### `10-student.py`
   - This file contains a`Student` Class that defines `student` based on script `9-student.py`.
+
+
+#### `11-stydent.py`
+  - This file contains a `Student` Class that defines `student` object based on script `10-student.py`.
