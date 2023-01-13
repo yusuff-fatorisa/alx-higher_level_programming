@@ -51,3 +51,6 @@ The files included in this repository includes:
 
 #### `100-my_int.py`
   - This file contains a class `MyInt` that inherits from `int`.
+
+#### `101-add_attribute.py`
+  - This module contains a function that adds a new attribute to an object if it's possible.

@@ -14,6 +14,7 @@ class MyInt(int):
     '__eq__' and '__ne__' methods or operators.
     """
 
+
     def __eq__(self, other):
         """ It checks for inverted equality with a compared number """
         self.other = other
