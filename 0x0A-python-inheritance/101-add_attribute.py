@@ -22,7 +22,6 @@ def add_attribute(cls, attr, value):
     """
 
     if ("__dict__" in dir(cls)):
-        #cls.__setattr__(attr, value)
         setattr(cls, attr, value)
     else:
         raise TypeError(f"can't add new attribute")
