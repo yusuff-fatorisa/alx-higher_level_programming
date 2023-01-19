@@ -10,6 +10,10 @@ Methods ===>
 """
 
 
+import json
+import csv
+
+
 class Base(object):
     """
     This class creates an instance of a Base Class.
@@ -32,19 +36,26 @@ class Base(object):
         Returns the 'JSON' string representation
         of a list of dictionaries
         """
-        import json
-        if len(list_dictionaries) < 1:
-            return json.dumps("[]")
-        else:
+        if list_dictionaries is not None:
             return json.dumps(list_dictionaries)
+        else:
+            return json.dumps([])
 
     @classmethod
-    def save_to_file(cls, lists_objs):
+    def save_to_file(cls, list_objs):
         """ Writes the JSON string representation of 'lists_objs' to a file"""
         files = []
-        if lists_objs is not None:
-            for elem in lists_objs:
+        if list_objs is not None:
+            for elem in list_objs:
                 files.append(cls.to_dictionary(elem))
         my_file = cls.__name__ + ".json"
         with open(my_file, "w") as f:
             f.write(cls.to_json_string(files))
+
+    @staticmethod
+    def from_json_string(json_string):
+        """ Returns the list of JSON string representation """
+        if json_string is None or len(json_string) == 0:
+            return json.loads([])
+        else:
+            return json.loads(json_string)
