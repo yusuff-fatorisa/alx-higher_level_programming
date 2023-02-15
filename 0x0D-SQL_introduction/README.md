@@ -24,3 +24,7 @@ The files contained in this repository includes
 
 #### `2-remove_database.sql`
   - This file contains some `SQL` commands that deletes a specified name of the database. In case the specified database does not exist, it does not fail nor throw any error.
+
+#### `3-list_tables.sql`
+  - This file contains some `SQL` commands that lists all the tables of a database in your `MySQL` server.
+

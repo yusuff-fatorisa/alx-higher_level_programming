@@ -3,4 +3,4 @@
 -- the specified database does not exist, the code does not fail
 
 
-DROP DATABASE IF EXIST hbtn_0c_0
+DROP DATABASE IF EXISTS hbtn_0c_0;
