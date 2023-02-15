@@ -21,3 +21,6 @@ The files contained in this repository includes
 
 #### `1-create_database_if_missing.sql`
   - This script contains some `SQL` commands that creates a database. It also does not fail in case the specified database already exist.
+
+#### `2-remove_database.sql`
+  - This file contains some `SQL` commands that deletes a specified name of the database. In case the specified database does not exist, it does not fail nor throw any error.
