@@ -18,3 +18,10 @@ if __name__ == "__main__":
 
     b5 = Base()
     print(b5.id)
+
+    print(dir(b1))
+    print("==============")
+    print(b1.__module__)
+    print("===================")
+    print(b1.__class__.__name__)
+    print(dir(b1.__class__))
