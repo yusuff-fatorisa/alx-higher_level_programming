@@ -17,4 +17,7 @@ The files contained in this repository includes
   - This file contains all the necessary information regarding to this repository and its contents
 
 #### `0-list_databases.sql`
-  - This script contains some SQL commands that lists all dtabases of your `MySQL` server.
+  - This script contains some SQL commands that lists all databases of your `MySQL` server.
+
+#### `1-create_database_if_missing.sql`
+  - This script contains some `SQL` commands that creates a database. It also does not fail in case the specified database already exist.
