@@ -28,3 +28,6 @@ The files contained in this repository includes
 #### `3-list_tables.sql`
   - This file contains some `SQL` commands that lists all the tables of a database in your `MySQL` server.
 
+#### `4-first_table.sql`
+  - This script contains some `SQL` commands that creates a table called `first_table` in the current database of your `MySQL` server.
+
