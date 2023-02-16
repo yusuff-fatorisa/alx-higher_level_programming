@@ -67,3 +67,6 @@ The files contained in this repository includes
 #### `16-no_link.sql`
   - This script contains some `SQL` commands that lists all records of the table `second_table` of the database `hbtn_0c_0` in your `MySQL` server.
 
+#### `100-move_to_utf8.sql`
+  - This script contains some `SQL` commands that converts `hbtn_0c_0` database to `UTF8` in your `MySQL` server.
+
