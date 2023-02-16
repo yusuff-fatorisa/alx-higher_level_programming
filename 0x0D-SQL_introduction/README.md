@@ -70,3 +70,5 @@ The files contained in this repository includes
 #### `100-move_to_utf8.sql`
   - This script contains some `SQL` commands that converts `hbtn_0c_0` database to `UTF8` in your `MySQL` server.
 
+#### `101-avg_temperatures.sql`
+  - This script contains some `SQL` commands that displays the average temperature `(Fahrenheit)` by city ordered by temperature `(descending)`.
