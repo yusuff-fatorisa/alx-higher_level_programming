@@ -2,5 +2,5 @@
 -- number of records with the same score in the table
 -- second_table in the hbtn_0c_0 of your MySQL server.
 
-SELECT score, COUNT(*) as number from second_table
+SELECT score, COUNT(*) AS number FROM second_table
 GROUP BY score ORDER BY number DESC
