@@ -49,3 +49,10 @@ The files contained in this repository includes
 #### `10-top_score.sql`
   - This script contains some `SQL` commands that lists all records of the table `second_table` of the database `hbtn_0c_0` in your `MySQL` in your server.
 
+#### `11-best_score.sql`
+  - This script contains some `SQL` commands that lists all records with a `score >= 10` in the `second_table` of the database `hbtn_0c_0` of your `MySQL` server.
+
+#### `12-no_cheating.sql`
+  - This script contains some `SQL` commands that updates the score of `Bob` to `10` in the table `second_table`.
+
+
