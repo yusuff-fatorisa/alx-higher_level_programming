@@ -40,3 +40,6 @@ The files contained in this repository includes
 #### `7-insert_value.sql`
   - This script contains some `SQL` commands that inserts a new row in the table `first_table` of the `hbtn_0c_0` database in yous `MySQL` server.
 
+#### `8-count_89.sql`
+  - This script contains some `SQL`commands that displays the number of records with `id = 89` in the table `first_table` of the `hbtn_0c_0` database in your `MySQL` server.
+
