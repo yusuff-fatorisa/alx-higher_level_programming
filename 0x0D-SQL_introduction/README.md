@@ -36,3 +36,7 @@ The files contained in this repository includes
 
 #### `6-list_values.sql`
   - This script contains some `SQL` commands that lists all rows of the table `first_table` from the database `hbtn_0c_0` in your `MySQL` server.
+
+#### `7-insert_value.sql`
+  - This script contains some `SQL` commands that inserts a new row in the table `first_table` of the `hbtn_0c_0` database in yous `MySQL` server.
+
