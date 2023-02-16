@@ -46,3 +46,6 @@ The files contained in this repository includes
 #### `9-full_creation.sql` 
   - This script contains some `SQL` commands that creates a table `second_table` in the database `hbtn_0c_0` in your `MySQL` server and adds multiple rows.
 
+#### `10-top_score.sql`
+  - This script contains some `SQL` commands that lists all records of the table `second_table` of the database `hbtn_0c_0` in your `MySQL` in your server.
+
