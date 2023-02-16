@@ -32,5 +32,7 @@ The files contained in this repository includes
   - This script contains some `SQL` commands that creates a table called `first_table` in the current database of your `MySQL` server.
 
 #### `5-full_table.sql`
-  - This script contains some `SQL` commands that prints thr full description of the specified table e.g `first_table` from the database `hbtn_0c_0` in your `MySQL` server.
+  - This script contains some `SQL` commands that prints the full description of the specified table e.g `first_table` from the database `hbtn_0c_0` in your `MySQL` server.
 
+#### `6-list_values.sql`
+  - This script contains some `SQL` commands that lists all rows of the table `first_table` from the database `hbtn_0c_0` in your `MySQL` server.
