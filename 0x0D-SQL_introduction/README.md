@@ -72,3 +72,9 @@ The files contained in this repository includes
 
 #### `101-avg_temperatures.sql`
   - This script contains some `SQL` commands that displays the average temperature `(Fahrenheit)` by city ordered by temperature `(descending)`.
+
+#### `102-top_city.sql`
+  - This script contains some `SQL` commands that displays the top 3 of the cities temperature during `July, and August` ordered by temperature in descending order.
+
+#### `103-max_state.sql`
+  - This script contains some `SQL` commands that displays the max temperature of each state, ordered by`STATE` name.
