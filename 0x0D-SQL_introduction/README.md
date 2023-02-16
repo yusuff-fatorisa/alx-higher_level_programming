@@ -55,4 +55,6 @@ The files contained in this repository includes
 #### `12-no_cheating.sql`
   - This script contains some `SQL` commands that updates the score of `Bob` to `10` in the table `second_table`.
 
+#### `13-change_class.sql`
+  - This scropt contains some `SQL` commands that removes all records with a `score  <= 5` in the table `second_table` of the database `hbtn_0c_0` in your `MySQL` server.
 
