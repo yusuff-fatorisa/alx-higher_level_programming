@@ -60,3 +60,10 @@ The files contained in this repository includes
 
 #### `14-average.sql`
   - This script contains some `SQL` commands that computes the `score average` of all records in the table `second_table` of the database `hbtn_0c_0` of your `MySQL` server.
+
+#### `15-groups.sql`
+  - This script contains some `SQL` commands that lists the number of records with the same `score` in the table `second_table` of the database `hbtn_0c_0` of your `MySQL` server.
+
+#### `16-no_link.sql`
+  - This script contains some `SQL` commands that lists all records of the table `second_table` of the database `hbtn_0c_0` in your `MySQL` server.
+
