@@ -43,3 +43,6 @@ The files contained in this repository includes
 #### `8-count_89.sql`
   - This script contains some `SQL`commands that displays the number of records with `id = 89` in the table `first_table` of the `hbtn_0c_0` database in your `MySQL` server.
 
+#### `9-full_creation.sql` 
+  - This script contains some `SQL` commands that creates a table `second_table` in the database `hbtn_0c_0` in your `MySQL` server and adds multiple rows.
+
